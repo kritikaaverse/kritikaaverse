@@ -33,10 +33,10 @@ Robotics, Detection, Exploratory
 
 Technical Experience
 ---
-Languages: Python, C, C++
-Web and data: Next.js, Node.js, FastAPI, Prisma
-Systems and tooling: Arduino (Uno, Nano), ESP32, MyoWare 2.0 EMG sensor, flex sensors, Git, GitHub
-Applied AI: TensorFlow.js image pipelines, rule-based decision engines, regex-based data extraction
+- Languages: Python, C, C++
+- Web and data: Next.js, Node.js, FastAPI, Prisma
+- Systems and tooling: Arduino (Uno, Nano), ESP32, MyoWare 2.0 EMG sensor, flex sensors, Git, GitHub
+- Applied AI: TensorFlow.js image pipelines, rule-based decision engines, regex-based data extraction
 
 Contact
 ---
