@@ -40,4 +40,4 @@ Applied AI: TensorFlow.js image pipelines, rule-based decision engines, regex-ba
 
 Contact
 ---
-[LinkedIn](https://www.linkedin.com/in/kritika-sahu-1302ks), [Email](mailto:kritikas1320@gmail.com), [X](https://x.com/kritika_1302)
+[LinkedIn](https://www.linkedin.com/in/kritika-sahu-1302ks)  [Email](mailto:kritikas1320@gmail.com)  [X](https://x.com/kritika_1302)
