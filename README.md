@@ -25,6 +25,8 @@ rPPG, Biofeedback, Computer Vision
 Sign Language Glove is a bilateral (both-hand) translator glove that uses flex sensors to convert sign language into speech. Currently working toward multi-language output and a more comfortable, wearable design.
 Flex Sensors, Arduino, Speech Output
 
+F.R.I.D.A.Y - AI Agent
+
 Disaster Management Robot is a rescue robot built for disaster zones, with IP65 weatherproofing so it can handle rain and dust, and life detection to help locate people trapped in rubble.
 IP65, Life Detection, Robotics
 
