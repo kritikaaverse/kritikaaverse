@@ -15,10 +15,9 @@ TensorFlow.js, Regex Parsing, Client-side, Medical Tools
 [EcoTracker](https://github.com/kritikaaverse/ecotracker13) is an industrial carbon footprint calculator built on GHG Protocol Scope 1, 2, and 3 standards. It turns activity data into structured, auditable emissions numbers that companies can actually track over time.
 Next.js, FastAPI, Prisma
 
-### Optiscope: browser charting and options analytics
+ [OptiScope](https://github.com/kritikaaverse/optiscope) browser charting and options analytics
 Canvas chart engine, live greeks, strategy payoffs, encrypted broker vault, and accounts. TypeScript, React, FastAPI, Postgres. Deployed on Vercel and Render.
-
-[Live demo](https://optiscope-teal.vercel.app) · [Repo](https://github.com/kritikaaverse/optiscope) · [API docs](https://optiscope-api.onrender.com/docs)
+[Live demo](https://optiscope-teal.vercel.app) · [API docs](https://optiscope-api.onrender.com/docs)
 
 ---
 
