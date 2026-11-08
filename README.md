@@ -17,7 +17,7 @@ Next.js, FastAPI, Prisma
 
  [OptiScope](https://github.com/kritikaaverse/optiscope) browser charting and options analytics
 Canvas chart engine, live greeks, strategy payoffs, encrypted broker vault, and accounts. TypeScript, React, FastAPI, Postgres. Deployed on Vercel and Render.
-[Live demo](https://optiscope-teal.vercel.app) · [API docs](https://optiscope-api.onrender.com/docs)
+· [API docs](https://optiscope-api.onrender.com/docs)
 
 ---
 
