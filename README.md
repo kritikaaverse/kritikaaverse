@@ -39,6 +39,8 @@ IP65, Life Detection, Robotics
 Landmine Detection Robot is an exploratory robotics project aimed at detecting landmines. The detection method and deployment approach are still being developed.
 Robotics, Detection, Exploratory
 
+CampusHQ - Work In Progress
+
 Technical Experience
 ---
 - Languages: Python, C, C++
