@@ -43,18 +43,15 @@ An industrial carbon footprint calculator built on GHG Protocol Scope 1, 2, and 
 Browser charting and options analytics: a canvas chart engine, live Greeks, strategy payoffs, an encrypted broker vault, and accounts. Deployed on Vercel and Render.
 
 **Built with:** TypeScript · React · FastAPI · Postgres · [API docs](https://optiscope-api.onrender.com/docs)
-
+---
 ### Private repositories
-
-**ChromaPulse**: A contactless stress-biofeedback app using rPPG, which measures pulse from a camera feed with no wearable needed. Built as an IEEE-style research paper for a paper competition.
-**Built with:** rPPG · Biofeedback · Computer Vision
 
 **Sign Language Glove**: A bilateral (both-hand) translator glove that uses flex sensors to convert sign language into speech. Currently working toward multi-language output and a more comfortable, wearable design.
 **Built with:** Flex Sensors · Arduino · Speech Output
 
-**F.R.I.D.A.Y - AI Agent**
+**F.R.I.D.A.Y - AI Agent**(F.R.I.D.A.Y Re-Build)
 
-**Veyra**: AI Powered vehicle interaction.
+**Veyra**: work in progress
 
 **Disaster Management Robot**: A rescue robot built for disaster zones, with IP65 weatherproofing so it can handle rain and dust, and life detection to help locate people trapped in rubble.
 **Built with:** IP65 · Life Detection · Robotics
