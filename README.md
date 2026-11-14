@@ -42,7 +42,7 @@ Browser charting and options analytics: a canvas chart engine, live Greeks, stra
 
 ### Private repositories
 
-**ChromaPulse**: A contactless stress-biofeedback app using rPPG, which measures pulse from a camera feed with no wearable needed. Built as an IEEE-style research paper for a paper competition.
+**ChromaPulse**: A contactless stress-biofeedback app using rPPG
 **Built with:** rPPG · Biofeedback · Computer Vision
 
 **Sign Language Glove**: A bilateral (both-hand) translator glove that uses flex sensors to convert sign language into speech. Currently working toward multi-language output and a more comfortable, wearable design.
