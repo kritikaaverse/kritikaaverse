@@ -5,7 +5,11 @@
 -->
 
 <p align="center">
-  <img src="kritika-hero.svg" alt="Kritika Sahu, Software Dev. Animated burgundy banner with a glowing signal path." width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="kritika-hero.svg">
+    <source media="(prefers-color-scheme: light)" srcset="kritika-hero-light.svg">
+    <img src="kritika-hero-light.svg" alt="Kritika Sahu, Software Dev. Animated burgundy banner with a glowing signal path." width="100%">
+  </picture>
 </p>
 
 ## About
@@ -39,10 +43,10 @@ An industrial carbon footprint calculator built on GHG Protocol Scope 1, 2, and 
 Browser charting and options analytics: a canvas chart engine, live Greeks, strategy payoffs, an encrypted broker vault, and accounts. Deployed on Vercel and Render.
 
 **Built with:** TypeScript · React · FastAPI · Postgres · [API docs](https://optiscope-api.onrender.com/docs)
----
+
 ### Private repositories
 
-**ChromaPulse**: A contactless stress-biofeedback app using rPPG
+**ChromaPulse**: A contactless stress-biofeedback app using rPPG, which measures pulse from a camera feed with no wearable needed. Built as an IEEE-style research paper for a paper competition.
 **Built with:** rPPG · Biofeedback · Computer Vision
 
 **Sign Language Glove**: A bilateral (both-hand) translator glove that uses flex sensors to convert sign language into speech. Currently working toward multi-language output and a more comfortable, wearable design.
@@ -82,5 +86,9 @@ Browser charting and options analytics: a canvas chart engine, live Greeks, stra
 [LinkedIn](https://www.linkedin.com/in/kritika-sahu-1302ks) · [Email](mailto:kritikas1320@gmail.com) · [X](https://x.com/kritika_1302)
 
 <p align="center">
-  <img src="kritika-footer.svg" alt="Footer: Kritika Sahu, Software Dev" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="kritika-footer.svg">
+    <source media="(prefers-color-scheme: light)" srcset="kritika-footer-light.svg">
+    <img src="kritika-footer-light.svg" alt="Footer: Kritika Sahu, Software Dev" width="100%">
+  </picture>
 </p>
