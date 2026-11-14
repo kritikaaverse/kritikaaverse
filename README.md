@@ -39,7 +39,7 @@ An industrial carbon footprint calculator built on GHG Protocol Scope 1, 2, and 
 Browser charting and options analytics: a canvas chart engine, live Greeks, strategy payoffs, an encrypted broker vault, and accounts. Deployed on Vercel and Render.
 
 **Built with:** TypeScript · React · FastAPI · Postgres · [API docs](https://optiscope-api.onrender.com/docs)
-
+---
 ### Private repositories
 
 **ChromaPulse**: A contactless stress-biofeedback app using rPPG
