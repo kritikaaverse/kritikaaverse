@@ -1,53 +1,57 @@
-Kritika Sahu
----
+<!--
+  Maintainer notes (hidden on GitHub):
+  - Add verified achievements, certifications, and more public project links only after confirming them.
+  - Keep phone numbers out of this file.
+-->
 
-Software dev working with Python, C/C++, embedded systems, and applied AI, building tools that connect sensor data, APIs, and usable interfaces, from hardware prototypes to web platforms.
-Hardware builder working on sensors, automation, and biomedical tools, focused on projects that start as a physical problem and end as something people can actually use.
+<p align="center">
+  <img src="assets/kritika-hero.svg" alt="Kritika Sahu, Software Dev. Animated burgundy banner with a glowing signal path." width="100%">
+</p>
 
-Key Projects
----
-[SoilPulse](https://github.com/kritikaaverse/Soilpulse) is a smart irrigation system built on Arduino Uno. It reads temperature, humidity, and soil moisture sensors and waters plants automatically whenever moisture drops below the required threshold, cutting water waste and keeping soil in a healthy range.
-Arduino Uno, Sensors, Automation
+## About me
 
-[MediScan](https://github.com/aakibpatel1112-stack/Mediscan-ai-) is a fully client-side medical app with three tools in one place. A weighted symptom checker runs across a 16-condition knowledge base, an injury analyzer uses TensorFlow.js in the browser, and a report scanner extracts lab values and compares them against demographic-adjusted reference ranges. No backend and no external AI APIs, so health data never leaves the device.
-TensorFlow.js, Regex Parsing, Client-side, Medical Tools
+I'm a second-year college student at DR. D.Y. Patil ACS College, Pimpri, and I'm involved with the Sankalp Tech Club. I build independently across hardware, software, and biomedical domains, and I care most about projects that are useful beyond the demo.
 
-[EcoTracker](https://github.com/kritikaaverse/ecotracker13) is an industrial carbon footprint calculator built on GHG Protocol Scope 1, 2, and 3 standards. It turns activity data into structured, auditable emissions numbers that companies can actually track over time.
-Next.js, FastAPI, Prisma
+**Areas I work in:** embedded systems · computer vision · biomedical signal processing · web applications
 
- [OptiScope](https://github.com/kritikaaverse/optiscope) browser charting and options analytics
-Canvas chart engine, live greeks, strategy payoffs, encrypted broker vault, and accounts. TypeScript, React, FastAPI, Postgres. Deployed on Vercel and Render.
-· [API docs](https://optiscope-api.onrender.com/docs)
+## Featured projects
 
----
+### [SoilPulse](https://github.com/kritikaaverse/Soilpulse)
 
-Other Projects(Private Repositories)
+A smart irrigation system built on an Arduino Uno. It reads soil moisture, temperature, and humidity sensors and waters plants automatically when soil moisture drops below the required level, so water isn't wasted.
 
-ChromaPulse is a contactless stress-biofeedback app using rPPG, which measures pulse from a camera feed with no wearable needed. Built as an IEEE-style research paper for a paper competition.
-rPPG, Biofeedback, Computer Vision
+**Built with:** Arduino Uno · soil moisture, temperature, and humidity sensors
 
-Sign Language Glove is a bilateral (both-hand) translator glove that uses flex sensors to convert sign language into speech. Currently working toward multi-language output and a more comfortable, wearable design.
-Flex Sensors, Arduino, Speech Output
+## Skills
 
-F.R.I.D.A.Y - AI Agent
+| Category | Technologies |
+|---|---|
+| Languages | Python, JavaScript, TypeScript |
+| Embedded & Hardware | Arduino (Uno, Nano), ESP32, STM32, MyoWare 2.0, flex sensors |
+| Computer Vision & ML | OpenCV, MediaPipe, DeepFace, TensorFlow.js, SciPy |
+| Web & Backend | Three.js, HTML Canvas, React, Flask, FastAPI |
+| Desktop GUI | PySide6, pyqtgraph |
+| Tools | Git, GitHub |
 
-Veyra - AI Powered vehicle interaction.
+## GitHub activity
 
-Disaster Management Robot is a rescue robot built for disaster zones, with IP65 weatherproofing so it can handle rain and dust, and life detection to help locate people trapped in rubble.
-IP65, Life Detection, Robotics
+<p align="center">
+  <img src="https://ghchart.rshah.org/701A3D/kritikaaverse" alt="GitHub contribution graph for kritikaaverse" width="100%">
+</p>
 
-Landmine Detection Robot is an exploratory robotics project aimed at detecting landmines. The detection method and deployment approach are still being developed.
-Robotics, Detection, Exploratory
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=kritikaaverse&background=10070C&border=451126&ring=C77B9B&fire=E5B5C7&currStreakLabel=E5B5C7&sideLabels=C77B9B&dates=C77B9B&currStreakNum=F8F0F3&sideNums=F8F0F3" alt="GitHub contribution streak for kritikaaverse">
+</p>
 
-CampusHQ - Work In Progress
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kritikaaverse&show_icons=true&hide_border=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3&icon_color=C77B9B&ring_color=C77B9B" alt="GitHub stats for kritikaaverse">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritikaaverse&layout=compact&hide_border=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3" alt="Most used languages on GitHub for kritikaaverse">
+</p>
 
-Technical Experience
----
-- Languages: Python, C, C++
-- Web and data: Next.js, Node.js, FastAPI, Prisma
-- Systems and tooling: Arduino (Uno, Nano), ESP32, MyoWare 2.0 EMG sensor, flex sensors, Git, GitHub
-- Applied AI: TensorFlow.js image pipelines, rule-based decision engines, regex-based data extraction
+## Connect
 
-Contact
----
-[LinkedIn](https://www.linkedin.com/in/kritika-sahu-1302ks) · [Email](mailto:kritikas1320@gmail.com) · [X](https://x.com/kritika_1302)
+- GitHub: [@kritikaaverse](https://github.com/kritikaaverse)
+
+<p align="center">
+  <img src="assets/kritika-footer.svg" alt="Footer: Kritika Sahu, Software Dev" width="100%">
+</p>
