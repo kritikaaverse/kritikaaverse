@@ -13,13 +13,13 @@
 </p>
 
 ## About
-
+---
 Software dev working with Python, C/C++, embedded systems, and applied AI, building tools that connect sensor data, APIs, and usable interfaces, from hardware prototypes to web platforms.
 
 Hardware builder working on sensors, automation, and biomedical tools, focused on projects that start as a physical problem and end as something people can actually use.
 
 ## Key Projects
-
+---
 ### [SoilPulse](https://github.com/kritikaaverse/Soilpulse)
 
 A smart irrigation system built on Arduino Uno. It reads temperature, humidity, and soil moisture sensors and waters plants automatically whenever moisture drops below the required threshold, cutting water waste and keeping soil in a healthy range.
@@ -43,11 +43,8 @@ An industrial carbon footprint calculator built on GHG Protocol Scope 1, 2, and 
 Browser charting and options analytics: a canvas chart engine, live Greeks, strategy payoffs, an encrypted broker vault, and accounts. Deployed on Vercel and Render.
 
 **Built with:** TypeScript · React · FastAPI · Postgres · [API docs](https://optiscope-api.onrender.com/docs)
-
+---
 ### Private repositories
-
-**ChromaPulse**: A contactless stress-biofeedback app using rPPG, which measures pulse from a camera feed with no wearable needed. Built as an IEEE-style research paper for a paper competition.
-**Built with:** rPPG · Biofeedback · Computer Vision
 
 **Sign Language Glove**: A bilateral (both-hand) translator glove that uses flex sensors to convert sign language into speech. Currently working toward multi-language output and a more comfortable, wearable design.
 **Built with:** Flex Sensors · Arduino · Speech Output
@@ -65,7 +62,7 @@ Browser charting and options analytics: a canvas chart engine, live Greeks, stra
 **CampusHQ**: Work in progress.
 
 ## Technical Experience
-
+---
 - **Languages:** Python, C, C++
 - **Web and data:** Next.js, Node.js, FastAPI, Prisma
 - **Systems and tooling:** Arduino (Uno, Nano), ESP32, MyoWare 2.0 EMG sensor, flex sensors, Git, GitHub
