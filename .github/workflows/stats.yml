@@ -112,7 +112,7 @@ jobs:
           # ---- Heatmap ----
           cell, gap = 11, 3
           step = cell + gap
-          pad_left, pad_top = 16, 34
+          pad_left, pad_top = 16, 44
           ncols = len(weeks)
           width = pad_left * 2 + ncols * step
           height = pad_top + 7 * step + 14
