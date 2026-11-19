@@ -49,9 +49,9 @@ Browser charting and options analytics: a canvas chart engine, live Greeks, stra
 **Sign Language Glove**: A bilateral (both-hand) translator glove that uses flex sensors to convert sign language into speech. Currently working toward multi-language output and a more comfortable, wearable design.
 **Built with:** Flex Sensors · Arduino · Speech Output
 
-**F.R.I.D.A.Y - AI Agent**
+**F.R.I.D.A.Y - AI Agent(Re-Build)**
 
-**Veyra**: AI Powered vehicle interaction.
+**Veyra**: Work in Progress
 
 **Disaster Management Robot**: A rescue robot built for disaster zones, with IP65 weatherproofing so it can handle rain and dust, and life detection to help locate people trapped in rubble.
 **Built with:** IP65 · Life Detection · Robotics
